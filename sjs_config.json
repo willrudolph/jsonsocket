@@ -1,0 +1,6 @@
+{
+  "base":{
+    "httpPort": 8888,
+    "socketPort": 7777
+  }
+}

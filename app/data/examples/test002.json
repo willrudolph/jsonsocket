@@ -1,0 +1,567 @@
+{
+  "orderId" : null,
+  "productType" : null,
+  "serviceType" : null,
+  "offerType" : null,
+  "orderType" : null,
+  "siblingOrderId" : null,
+  "orderDetails" : [ {
+    "key" : "Sales Order Request Id (SOR Id) ",
+    "value" : "5761",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Service Type",
+    "value" : "HCMS",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Customer Name",
+    "value" : "TRINITYCUSTOMERAPRIL-505",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Customer Business Name",
+    "value" : "",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Customer Account ID",
+    "value" : "62499",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : " VOIP Option",
+    "value" : null,
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "BVOIP Site Type",
+    "value" : "5",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Order Type",
+    "value" : "New",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Service Order Status",
+    "value" : "In Progress",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Supp Reason",
+    "value" : null,
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Supp Version",
+    "value" : "1",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Service Order Id",
+    "value" : "29795",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Order Submit Date",
+    "value" : "2016-06-02 18:29:55.769",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Service Group Id",
+    "value" : "29794",
+    "category" : "Order Summary",
+    "list" : null
+  }, {
+    "key" : "Site Name",
+    "value" : "Location Name A",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "Site Address",
+    "value" : "554 DIVERSEY PKWY",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "Site ID",
+    "value" : "100011141",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "Room",
+    "value" : "1",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "Floor",
+    "value" : "5",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "City",
+    "value" : "CHICAGO",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "State",
+    "value" : "IL",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "Zip",
+    "value" : "60614",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "Country",
+    "value" : "US",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "Site Time Zone",
+    "value" : "CST",
+    "category" : "Site Information",
+    "list" : null
+  }, {
+    "key" : "Customers Transport",
+    "value" : "Existing",
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "Transport Provided By",
+    "value" : "AT&T",
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "Competitor",
+    "value" : null,
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "Transport Type",
+    "value" : "MIS",
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "BAN",
+    "value" : null,
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "Circuit ID",
+    "value" : "/AREC/541164//ATI",
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "Signaling and Encryption",
+    "value" : "No",
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "Is this new Construction",
+    "value" : "Yes",
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "Inside Wire",
+    "value" : null,
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "VPN ID",
+    "value" : "8",
+    "category" : "Transport",
+    "list" : null
+  }, {
+    "key" : "Number Of Basic Seats",
+    "value" : "1",
+    "category" : "Site Configuration",
+    "list" : null
+  }, {
+    "key" : "featuresInfoList",
+    "value" : null,
+    "category" : "Features",
+    "list" : [ {
+      "iD" : null,
+      "isMandatory" : 0,
+      "isDate" : 0,
+      "name" : "Unified Communications Bundle",
+      "value" : "1"
+    } ]
+  }, {
+    "key" : "alaCarteInfoList",
+    "value" : null,
+    "category" : "A La Carte",
+    "list" : [ {
+      "iD" : null,
+      "isMandatory" : 0,
+      "isDate" : 0,
+      "name" : "Auto Attendant - Standard",
+      "value" : "1"
+    } ]
+  }, {
+    "key" : "Do You want TNs listed in the directory?",
+    "value" : "Yes",
+    "category" : "Directory Listing Information",
+    "list" : null
+  }, {
+    "key" : "Do You want Directory Books Delivered?",
+    "value" : "N",
+    "category" : "Directory Listing Information",
+    "list" : null
+  }, {
+    "key" : "Books Initially",
+    "value" : "0",
+    "category" : "Directory Delivery Address Information",
+    "list" : null
+  }, {
+    "key" : "Books Annually",
+    "value" : "0",
+    "category" : "Directory Delivery Address Information",
+    "list" : null
+  }, {
+    "key" : "Name",
+    "value" : "TRINITYCUSTOMERAPRIL-505",
+    "category" : "Directory Delivery Address Information",
+    "list" : null
+  }, {
+    "key" : "Street Address",
+    "value" : "554 PKWY",
+    "category" : "Directory Delivery Address Information",
+    "list" : null
+  }, {
+    "key" : "City",
+    "value" : "CHICAGO",
+    "category" : "Directory Delivery Address Information",
+    "list" : null
+  }, {
+    "key" : "State",
+    "value" : "IL",
+    "category" : "Directory Delivery Address Information",
+    "list" : null
+  }, {
+    "key" : "Zip Code",
+    "value" : "60614",
+    "category" : "Directory Delivery Address Information",
+    "list" : null
+  }, {
+    "key" : "telephoneNumbersList",
+    "value" : null,
+    "category" : "Porting Telephone Number List",
+    "list" : [ ]
+  }, {
+    "key" : "attnInformationList",
+    "value" : null,
+    "category" : "Telephone Number(TN) Reservation Information",
+    "list" : [ {
+      "telephoneNoFrom" : "7738342036",
+      "telephoneNoTo" : "2037",
+      "virtualTNInd" : "Yes",
+      "e911Type" : "Intrado",
+      "vanityTNInd" : "No",
+      "tnRateCenter" : "CHICGOZN07",
+      "lnsSwitchCLLI" : "CHCGILCLGT5",
+      "lnsSwitchType" : "GSX",
+      "lrn" : "8158606000",
+      "attTNReservationId" : "PBJ201603169394"
+    } ]
+  }, {
+    "key" : "assignedTNList",
+    "value" : null,
+    "category" : "New TNs Assigned",
+    "list" : [ {
+      "attTNReservationId" : "PBJ201603169394",
+      "totalTelephoneNumbers" : "2",
+      "virtualTNInd" : "Yes",
+      "npaNXX" : null,
+      "hasSpecialTNRequirements" : "N",
+      "isSequential" : "NO_PREFERENCE",
+      "specialTNRequirements" : null
+    } ]
+  }, {
+    "key" : "LIDBCARECNAMInformationList",
+    "value" : null,
+    "category" : "LIDB/CARE/CNAM Information",
+    "list" : [ {
+      "telephoneNoFrom" : "7738342036",
+      "telephoneNoTo" : "2037",
+      "lidbOption" : "Restrict Both",
+      "interLATAPIC" : "0288",
+      "interLATAPICFreezeInd" : "Yes",
+      "intraLATAPIC" : "0288",
+      "intraLATAPICFreezeInd" : "Yes",
+      "cnamOption" : "Allow User Specified CNAM",
+      "cnam" : "TRINITYCUSTOMER"
+    } ]
+  }, {
+    "key" : "contactInformationList",
+    "value" : null,
+    "category" : "Contact Information",
+    "list" : [ {
+      "contactID" : "170816",
+      "alternatePhone" : null,
+      "workCell" : "7738831025",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "LOCATION",
+      "email" : "pk8753@att.com",
+      "firstName" : "pankaj",
+      "lastName" : "kumar",
+      "fullName" : null,
+      "workPhone" : "7738831025",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "PHONE"
+    }, {
+      "contactID" : "170817",
+      "alternatePhone" : null,
+      "workCell" : "7738830255",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "ALTERNATE_LOCATION",
+      "email" : "ks799t@att.com",
+      "firstName" : "Shaan",
+      "lastName" : "kumar",
+      "fullName" : null,
+      "workPhone" : "7738830255",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "PHONE"
+    }, {
+      "contactID" : "170818",
+      "alternatePhone" : null,
+      "workCell" : "7738830258",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "TECHNICAL",
+      "email" : "vo3260@att.com",
+      "firstName" : "James",
+      "lastName" : "Roy",
+      "fullName" : null,
+      "workPhone" : "7738830258",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "PHONE"
+    }, {
+      "contactID" : "170819",
+      "alternatePhone" : null,
+      "workCell" : null,
+      "contactOnSiteIndicator" : false,
+      "contactType" : "BILLING",
+      "email" : null,
+      "firstName" : "defaultName",
+      "lastName" : "defaultName",
+      "fullName" : null,
+      "workPhone" : null,
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "PHONE"
+    }, {
+      "contactID" : "170820",
+      "alternatePhone" : null,
+      "workCell" : "7738831025",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "MAIN",
+      "email" : "pk8753@att.com",
+      "firstName" : "pankaj",
+      "lastName" : "kumar",
+      "fullName" : null,
+      "workPhone" : "7738831025",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "PHONE"
+    }, {
+      "contactID" : "170821",
+      "alternatePhone" : null,
+      "workCell" : "7738831024",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "SALES",
+      "email" : "tiran.raz@amdocs.com",
+      "firstName" : "TIRAN",
+      "lastName" : "RAZ",
+      "fullName" : null,
+      "workPhone" : "7738831024",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "EMAIL"
+    }, {
+      "contactID" : "170822",
+      "alternatePhone" : null,
+      "workCell" : "7738831025",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "CPE_SHIP_TO",
+      "email" : "pk8753@att.com",
+      "firstName" : "pankaj",
+      "lastName" : "kumar",
+      "fullName" : null,
+      "workPhone" : "7738831025",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "PHONE"
+    }, {
+      "contactID" : "170823",
+      "alternatePhone" : null,
+      "workCell" : "7738830255",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "ALTERNATE_MAIN",
+      "email" : "ks799t@att.com",
+      "firstName" : "Shaan",
+      "lastName" : "kumar",
+      "fullName" : null,
+      "workPhone" : "7738830255",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "PHONE"
+    }, {
+      "contactID" : "170824",
+      "alternatePhone" : null,
+      "workCell" : "7738831024",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "SOR_SUBMITTER",
+      "email" : "tiran.raz@amdocs.com",
+      "firstName" : "TIRAN",
+      "lastName" : "RAZ",
+      "fullName" : null,
+      "workPhone" : "7738831024",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "EMAIL"
+    }, {
+      "contactID" : "170825",
+      "alternatePhone" : null,
+      "workCell" : "7737026960",
+      "contactOnSiteIndicator" : false,
+      "contactType" : "GLOBAL_PROJECT_MANAGER",
+      "email" : "ra4563@att.com",
+      "firstName" : "ANNA",
+      "lastName" : "ROB",
+      "fullName" : null,
+      "workPhone" : "7737026990",
+      "faxNumber" : null,
+      "pbxVendorName" : null,
+      "streetAddress1" : null,
+      "city" : null,
+      "state" : null,
+      "zipCode" : null,
+      "isContactNotOnSite" : null,
+      "timeZone" : null,
+      "preferredNotification" : "PHONE"
+    } ]
+  }, {
+    "key" : "cpeInformationList",
+    "value" : null,
+    "category" : "Customer Premise Equipment",
+    "list" : [ {
+      "attProvidesEquipment" : "Y",
+      "rateDescription" : "Polycom SoundPoint IP 550",
+      "billingMethod" : "Purchase",
+      "numberOfDevices" : "2",
+      "typeOfInstallation" : "Full Tech Install",
+      "shippingAddress" : "554 W DIVERSEY PKWY CHICAGO IL 60614",
+      "cpeShippingNotes" : null,
+      "shippingDate" : null,
+      "trackingNumber" : null,
+      "supplierItemId" : "GLB.300000017",
+      "macAddress" : null
+    } ]
+  }, {
+    "key" : "Contract Term",
+    "value" : null,
+    "category" : "Billing Information",
+    "list" : null
+  }, {
+    "key" : "Promotions and Special Offers",
+    "value" : null,
+    "category" : "Billing Information",
+    "list" : null
+  }, {
+    "key" : "Order Due Date",
+    "value" : "Wed Jun 08 18:00:00 EDT 2016",
+    "category" : "Common Order Information",
+    "list" : null
+  }, {
+    "key" : "directoryListingInformationList",
+    "value" : null,
+    "category" : "Directory Listing",
+    "list" : [ {
+      "newListPhonenumber" : "7738342036",
+      "listingType" : "Listed",
+      "listingRecordtype1" : "Local",
+      "listingRecordtype2" : "Main Listing",
+      "listednameFirst" : null,
+      "listednameLast" : "PRACHI",
+      "streetNumberPrefix" : null,
+      "streetNumber" : null,
+      "streetNumberSuffix" : null,
+      "streetDirPrefix" : null,
+      "streetName" : null,
+      "streetDirSuffix" : null,
+      "streetType" : null,
+      "city" : "CHICAGO",
+      "state" : "IL",
+      "zipCode" : "60614",
+      "printDirectoryType" : "W",
+      "yellowpageHeadingVerbiage" : null,
+      "yellowpageHeadingCode" : null,
+      "directoryServiceProvider" : "Ameritech",
+      "styleCode" : "SL",
+      "streetAddress" : "554 DIVERSEY PKWY ",
+      "alphNumListingIdent" : null,
+      "omitAddressFromDirectory" : null
+    } ]
+  } ]
+}

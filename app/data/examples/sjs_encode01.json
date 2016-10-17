@@ -1,0 +1,10 @@
+{
+  "key^*" : "value1",
+  "anArray^*" : [],
+  "anObject^*" : {},
+  "openValue" : {
+    "hiddenKey^*": "value2",
+    "hiddenObj^*": {},
+    "hiddenArray^*": []
+  }
+}
